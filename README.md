@@ -27,7 +27,7 @@ You can explore multiple genres and get suggestions anytime.
 
 ##🌐 Live Demo
 Click here to try the chatbot
-[click here to view live details]()
+[click here to view live details](https://khanofficial956-cpu.github.io/book-chatbot/)
 
 
 
@@ -47,7 +47,7 @@ Multi-language support
 
 📷 Screenshots
 
-1[image alt](https://github.com/khanofficial956-cpu/book-chatbot/blob/main/book-chatbot.png?raw=true)
+![image alt](https://github.com/khanofficial956-cpu/book-chatbot/blob/main/book-chatbot.png?raw=true)
 
 
 
